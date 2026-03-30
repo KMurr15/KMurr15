@@ -11,8 +11,8 @@
 ## Projects
 
 - M&K Board Game Blog (CURRENT PROJECT) — A website design for a blog about board games.
-- M&K Photography — A website design for displaying and selling photography with e-commerce cart functionalities.  
-- Swiss Retreat Resort — A website design for a potential resort location based on images and content already provided for.
+- [M&K Photography](https://www.behance.net/gallery/239981597/Final-Website) — A website design for displaying and selling photography with e-commerce cart functionalities.  
+- [Swiss Retreat Resort](https://kmurr15.github.io/final/) — A website design for a potential resort location based on images and content already provided for.
 - Seedlings and Snippings — A website design for a blog for herb gardens that incorporates embedded Youtube links.
 
 ## Languages
