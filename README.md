@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, all! 👋 My name is Kaitlyn Murray.
 
-<!--
-**KMurr15/KMurr15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A Little About Me 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently in my final semester towards a BS in Graphic Information Technology.
+- 🌱 I’m currently learning more about front-end web development.
+- 🎨 I have a BFA in Art (Animation).
+- ⚡ My interests include coffee, cooking, learning, reading, photography, miniature painting, board games, video games, roller skating, and camping.
+- ✨ I have a passion for drawing, illustration, concept art, graphic design, 2D animation, 3D animation, 3D modelling, and UI design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- M&K Board Game Blog (CURRENT PROJECT) — A website design for a blog about board games.
+- M&K Photography — A website design for displaying and selling photography with e-commerce cart functionalities.  
+- Swiss Retreat Resort — A website design for a potential resort location based on images and content already provided for.
+- Seedlings and Snippings — A website design for a blog for herb gardens that incorporates embedded Youtube links.
+
+## Languages
+
+HTML | CSS | Javascript
+
+## Find Me On
+
+- 🎨 [ArtStation](https://www.artstation.com/adorkyartist)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaitlyn-murray/)
+
+Feel free to leave any feedback as it is always appreciated. Thank you for visiting and happy programming!❤️
