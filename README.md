@@ -10,10 +10,10 @@ Hello, all! 👋 My name is Kaitlyn Murray.
 
 ## Projects
 
-- M&K Board Game Blog (CURRENT PROJECT) — A website design for a blog about board games.
-- [M&K Photography](https://www.behance.net/gallery/239981597/Final-Website) — A website design for displaying and selling photography with e-commerce cart functionalities.  
-- [Swiss Retreat Resort](https://kmurr15.github.io/final/) — A website design for a potential resort location based on images and content already provided for.
-- Seedlings and Snippings — A website design for a blog for herb gardens that incorporates embedded Youtube links.
+- M&K Board Game Blog (CURRENT PROJECT) — A website design for a blog about board games. Images as well as the backgound pattern, logos, and icons will all be captured or designed by me in Adobe Illustrator. 
+- [M&K Photography](https://www.behance.net/gallery/239981597/Final-Website) — A website design for displaying and selling photography with e-commerce cart functionalities. Images were taken by either my significant other or I and the logo was designed by me in Adobe Illustrator. 
+- [Swiss Retreat Resort](https://kmurr15.github.io/final/) — A website design for a potential resort location based on images and content already provided for. Background pattern and logo were designed by me in Adobe Illustrator.
+- Seedlings and Snippings — A website design for a blog for herb gardens that incorporates embedded Youtube links. Background pattern and logo were designed by me in Adobe Illustrator.
 
 ## Skills
 
