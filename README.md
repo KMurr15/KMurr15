@@ -15,9 +15,9 @@ Hello, all! 👋 My name is Kaitlyn Murray.
 - [Swiss Retreat Resort](https://kmurr15.github.io/final/) — A website design for a potential resort location based on images and content already provided for.
 - Seedlings and Snippings — A website design for a blog for herb gardens that incorporates embedded Youtube links.
 
-## Languages
+## Skills
 
-HTML | CSS | Javascript
+HTML | CSS | Javascript | Figma | Adobe CC 
 
 ## Find Me On
 
